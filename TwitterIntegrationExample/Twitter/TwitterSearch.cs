@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Configuration;
-using System.Reflection;
 using System.Text;
-
-//using log4net;
 
 namespace TwitterIntegrationExample.Twitter
 {
